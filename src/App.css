@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.Card {
+    text-align: center;
+}
+
+.Movie {
+    margin: 50px;
+    background-color: aliceblue;
+}
+
+hr {
+    border: 3px solid #ccc;
+}
